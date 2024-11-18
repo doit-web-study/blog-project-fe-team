@@ -1,0 +1,17 @@
+#ArticleBox{  
+    width: 1160px;
+    height: 297px;
+    background-color: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    border-radius: 12px;
+}
+#EmptyBox{
+    width: 232px;
+    height: 232px;
+    background-color: #CDCDCD;
+    border: 1px solid #CDCDCD;
+    border-radius: 0px;
+}
+#Title{
+    color: #1E1E1E;
+}
