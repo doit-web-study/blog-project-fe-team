@@ -15,11 +15,6 @@ function App() {
         <ArticleBox/>
         <ArticleBox/>
         <ArticleBox/>
-        <ArticleBox/>
-        <ArticleBox/>
-        <ArticleBox/>
-        <ArticleBox/>
-        <ArticleBox/>
         <MoreButton/>
       </body>
     </div>
