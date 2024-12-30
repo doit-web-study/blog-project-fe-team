@@ -1,0 +1,14 @@
+.main-logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px; /* 네비게이션 바와의 여백 */
+  padding: 20px;
+}
+
+.main-logo {
+  font-size: 64px;
+  font-weight: bold;
+  color: #111;
+  text-align: center;
+}

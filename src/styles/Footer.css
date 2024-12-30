@@ -1,0 +1,64 @@
+.footer {
+  background-color: #f2f2f2;
+  padding: 40px;
+  font-family: "Arial", sans-serif;
+  color: #333;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 20px; /* 왼쪽 여백 추가 */
+}
+
+.footer-logo {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.footer-info {
+  font-size: 14px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.footer-info p {
+  margin: 0;
+}
+
+.footer-divider {
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: flex-start; /* 아이콘을 왼쪽 정렬 */
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.icon-circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid #333;
+  border-radius: 50%;
+  font-size: 18px;
+  color: #333;
+  text-decoration: none;
+}
+
+.icon-circle:hover {
+  background-color: #ddd;
+}
+
+.footer-copyright {
+  text-align: right;
+  font-size: 12px;
+  color: #666;
+  margin-top: 20px;
+}
