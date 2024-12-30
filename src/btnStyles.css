@@ -1,0 +1,29 @@
+#newArticleBtn{
+    cursor: pointer;
+    width: 138px;
+    height: 32px;
+    border-style: solid;
+    border-color: #2C2C2C;
+    font-weight: bold;
+    border-radius: 8px;
+    font-size: 14px;
+    padding: 8px, 8px, 8px, 8px;
+    font-family: "Body/Font Family";
+    color: #F5F5F5;
+    background-color: #2C2C2C;
+}
+
+#sportsBtn, #musicBtn, #gameBtn, #healthBtn, #studyBtn{
+    cursor: pointer;
+    width: 89px;
+    height: 38px;
+    border-style: solid;
+    border-color: #D9D9D9;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px, 10px, 10px, 10px;
+    font-family: "Body/Font Family";
+    color: #000000;
+    background-color: #FFFFFF;
+}
